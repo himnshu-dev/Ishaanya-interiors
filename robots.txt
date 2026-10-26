@@ -1,0 +1,15 @@
+# Robots.txt for Ishaanya Interiors
+User-agent: *
+Allow: /
+Allow: /modular-kitchen-dehradun
+Allow: /partner
+
+Disallow: /owner
+Disallow: /owner/
+Disallow: /owner-dashboard
+Disallow: /owner-dashboard/
+Disallow: /reset-password
+Disallow: /reset-password/
+Disallow: /api/
+
+Sitemap: https://ishaanya-interiors.ai.studio/sitemap.xml
